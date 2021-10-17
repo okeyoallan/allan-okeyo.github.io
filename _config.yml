@@ -1,7 +1,7 @@
 # Welcome 
 
 # Allan's website
-title: My Website
+title: Joe
 
 # Your name to show in the footer
 author: Okeyo Allan
@@ -11,7 +11,7 @@ author: Okeyo Allan
 navbar-links: "Home"
   About Me: "aboutme"
   Resources:
-  Author's home: "https://deanattali.com"
+  Author's home:
 
 # --- Logo --- #
 
